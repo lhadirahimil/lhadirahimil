@@ -5,21 +5,17 @@
 <h3 align="center">A passionate Mobile Programmer from Iran</h3>
 
 <br/>
-<br/>
 
 - 🌱 I’m currently learning **Android Architecture**
 
 - 📫 How to reach me **lhadirahimil@gmail.com**
 
 <br/>
-<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lhadirahimil&show_icons=true&theme=dark&locale=en&layout=compact" alt="lhadirahimil" /></p>
 </p>
 
 <br/>
-<br/>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
